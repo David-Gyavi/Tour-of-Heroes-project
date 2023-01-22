@@ -1,0 +1,12 @@
+{
+    "window.autoDetectColorScheme": true,
+    "window.closeWhenEmpty": true,
+    "window.commandCenter": true,
+    "explorer.excludeGitIgnore": false,
+    "explorer.openEditors.sortOrder": "alphabetical",
+    "screencastMode.onlyKeyboardShortcuts": false,
+    "screencastMode.keyboardShortcutsFormat": "command",
+    "workbench.settings.openDefaultKeybindings": true,
+    "workbench.settings.openDefaultSettings": true,
+    "workbench.editor.wrapTabs": true
+}
